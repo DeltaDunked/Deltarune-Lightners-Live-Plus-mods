@@ -1,0 +1,9 @@
+difficulty: Extreme
+description:Hello? Just checking in… I’m getting worried about you, I’m coming over now.”
+Composer: Deco*27
+volume: 0
+ColorKrisL: #06B6D4
+ColorKrisR: #FFFFFF
+ColorKrisBox: #39A8A8
+SpotlightColors:#06B6D4,#FFFFFF,#39A8A8
+

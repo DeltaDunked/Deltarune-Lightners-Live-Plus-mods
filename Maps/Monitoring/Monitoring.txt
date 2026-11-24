@@ -1,0 +1,9 @@
+difficulty: Extreme
+description:I wanna suck dry your spicy tears, save your dissected heart
+Composer: Deco*27
+volume: 0
+ColorKrisL: #B185D8
+ColorKrisR: #FFFFFF
+ColorKrisBox: #39A8A8
+SpotlightColors:#B185D8,#FFFFFF,#39A8A8
+StageColor: #f002d0
