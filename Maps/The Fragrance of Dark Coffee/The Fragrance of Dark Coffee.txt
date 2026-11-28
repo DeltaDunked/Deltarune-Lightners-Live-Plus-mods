@@ -1,0 +1,9 @@
+difficulty: Easy
+description:Blacker than a moonless night. Hotter and more bitter than Hell itself... That is coffee.
+Composer: Noriyuki Iwadare
+volume: 0
+ColorKrisL: #7a5020
+ColorKrisR: #FFFFFF
+ColorKrisBox: #ea2f2f
+
+
